@@ -1,4 +1,4 @@
-# weather-reportor
+# weather-reporter
 ## Weather App Interface
 This project comprises an intuitive and visually appealing weather application interface built using HTML, CSS, and JavaScript. The app provides users with a simple platform to search for and view weather information for different cities.
 
